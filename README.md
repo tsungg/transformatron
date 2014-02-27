@@ -1,3 +1,3 @@
 # Transformatron
 
-Phonegap build experiment.
+New Cordova project
